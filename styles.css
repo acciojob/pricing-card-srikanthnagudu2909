@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.container{
+    width: 40%;
+    border: 2px solid black;
+    text-align: center;
+    margin: 20%;
+    margin-left: 35%;
+    justify-content: center;
+}
+.btn{
+    color: rgb(240, 233, 233);
+    background-color:brown;
+    margin-bottom: 20px;
+}
+.img{
+    width: 80%;
+    margin:10px
+}
